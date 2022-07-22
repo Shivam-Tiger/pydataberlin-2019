@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/d8c0f8f257354d3480eaadd32b857923/artifacts
+end_time: 1658503821496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d8c0f8f257354d3480eaadd32b857923
+run_uuid: d8c0f8f257354d3480eaadd32b857923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658503689548
+status: 3
+tags: []
+user_id: shivamgupta
